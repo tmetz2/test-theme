@@ -3,9 +3,10 @@ title: test
 ---
 
 ### Test
-- {:style='list-style-type: none'}[ ] foo
-- {:style='list-style-type: none'}[x] bar
-- {:style='list-style-type: none'}[ ] yo
+- [ ] foo
+- [x] bar
+- [ ] yo
+{:style='list-style-type: none'}
 
 
 
