@@ -6,7 +6,7 @@ title: test
 - [ ] foo
 - [x] bar
 - [ ] yo
-{: style='list-style-type: none'}
+{:style='list-style-type: none'}
 
 
 ### Another Test
