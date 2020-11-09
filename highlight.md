@@ -14,6 +14,12 @@ Example:
 ```
 {% endraw %}
 
+
+
+~~~go
+{{ date "20060102" }}-{{ .RoutingNumber }}.ach{{ if .GPG }}.gpg{{ end }}
+~~~
+
 ***An ordinary fellow with some first-hand knowledge of Argentina's "Moneda Nueva" ("New Money") once put it like so: "When the "Moneda Nueva" comes out, they <mark style="background-color: lightblue">change the number of zeroes and move the decimal point around."</mark>***
 
 ***An ordinary fellow with some first-hand knowledge of Argentina's "Moneda Nueva" ("New Money") once put it like so: "When the "Moneda Nueva" comes out, they <mark style="background-color: lightblue">change the number of zeroes and move the decimal point around."***</mark>
