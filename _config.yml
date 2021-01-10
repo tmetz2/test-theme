@@ -1,3 +1,1 @@
-# theme: jekyll-theme-merlot
-#markdown: kramdown
-markdown: gfm
+remote_theme: uswds-jekyll
